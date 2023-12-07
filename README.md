@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ahmineheheh
-- 👀 I’m interested in UI/UX. I'm fairly new to programming and coding!
-- 🌱 I’m currently learning ReactJS and Python
+- 👀 I’m interested in DevOps
 
 <!---
 ahmineheheh/ahmineheheh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
